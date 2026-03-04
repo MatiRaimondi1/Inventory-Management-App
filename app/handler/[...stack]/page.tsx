@@ -56,7 +56,7 @@ export default function Handler() {
                 border-color: #27272a !important;
               }
             `}} />
-            <StackHandler />
+            <StackHandler fullPage />
           </div>
         </div>
         
